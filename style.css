@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif; 
+    background-color: #2a3337;
+}
+
+.navbar {
+    background-color: #a5c658;
+}
+
+.navbar a {
+    color: #fff !important;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #ffffff;
+    font-weight:bold;
+}
+
+.form-group {
+        color: #ffffff;
+    margin-bottom: 15px;
+}
+
+p{
+    color: #ffffff;
+}
+
+.pIndex{
+    text-align: center;
+}
+
